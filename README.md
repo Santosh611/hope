@@ -1,16 +1,1 @@
-# hope
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+H.O.P.E [Highly Optimized Plasma Exchange] aims to provide an interconnected network for efficient processing of the plasma resources. The application is designed to direct the plasma donors to the healthcare administrative locations that require the resources with acute care towards discerning the criteria and procedures. The road of recovery from the global pandemic covid19, has plasma therapy playing a vital role. While the outlook of the therapy has immense potential in eradicating the pandemic, it also poses the huge problem of resource collection, management, classification, storage, delivery procedures being carried out in an effective way to accelerate the recovery period. H.O.P.E provides a platform for an efficient, safe, and instantaneous network to aid plasma therapy and pave the way towards a pandemic free society.
